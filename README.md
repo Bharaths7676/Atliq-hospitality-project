@@ -1,1 +1,2 @@
 # Atliq-hospitality-project
+https://app.powerbi.com/view?r=eyJrIjoiMmQzZWEwNjMtZDA3Yi00YTNmLTliMGEtNGUxNzFlNWZkMzUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ca97d7f2e9dd3223b1e9
